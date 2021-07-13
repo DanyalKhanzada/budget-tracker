@@ -66,12 +66,13 @@ function populateChart() {
 
   myChart = new Chart(ctx, {
     type: 'line',
+    indexLabelFontColor: 'white',
       data: {
         labels,
         datasets: [{
             label: "Total Over Time",
             fill: true,
-            backgroundColor: "#6666ff",
+          backgroundColor: "#36827f",
             data
         }]
     }
