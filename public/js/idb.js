@@ -18,3 +18,16 @@ function hideModal(e) {
     modal.style.display = 'none';
     mask.style.display = 'none';
 };
+
+mask.addEventListener('click', hideModal);
+
+// indexed db
+let db;
+
+const request = indexedDB.open('budget-tracker', 1);
+
+request.onupgradeneeded = function (event) {
+    const db = event.target.result;
+
+    db.createObjectStore('new_funds', { autoIncrement: true });
+};
