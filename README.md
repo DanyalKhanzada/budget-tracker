@@ -6,7 +6,7 @@ A budget tracking app. Users can track their spending and savings, and see all t
 
 The deployed app can be found [here](https://still-crag-28886.herokuapp.com/).
 
-![App screenshot](./app-screenshot.png)
+![App screenshot](./budget-tracker.png)
 
 # Table of Contents
 1. [Installation](#installation)
