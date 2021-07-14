@@ -15,7 +15,7 @@ The deployed app can be found [here](https://still-crag-28886.herokuapp.com/).
 4. [License](#license)
 
 ## Installation
-1. The app can be used in the browser [here](https://still-crag-28886.herokuapp.com/, or installed as a PWA.
+1. The app can be used in the browser [here](https://still-crag-28886.herokuapp.com/), or installed as a PWA.
 2. To install the app as a PWA, navigate to the the [URL](https://still-crag-28886.herokuapp.com/).
 3. On the right-hand side of the URL there will be a **+** or ![Image of download button](./download-button.png) button to install to the desktop/home screen.
 4. On mobile, you may need to click page settings ( **⋮** ) to find the download button.
